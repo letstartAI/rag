@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+langchain-text-splitters
+langchain-google-genai
+faiss-cpu
+pypdf
+python-docx
+openpyxl
+pandas
+duckduckgo-search
+python-dotenv
